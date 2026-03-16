@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Stayin Alive",
+  "base_artist": "Bee Gees",
+  "createdAt": "2026-03-16T03:06:03.698770Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stayin' Alive - 2007 Remastered Version Saturday Night Fever",
+      "artist": "Bee Gees",
+      "has_synced": true,
+      "path": "select/01_Stayin'_Alive_-_2007_Remastered_Version_Saturday_Night_Fever_Bee_Gees.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stayin’ Alive",
+      "artist": "Bee Gees",
+      "has_synced": true,
+      "path": "select/02_Stayin’_Alive_Bee_Gees.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stayin’ Alive (Serban Mix)",
+      "artist": "Bee Gees",
+      "has_synced": false,
+      "path": "select/03_Stayin’_Alive_(Serban_Mix)_Bee_Gees.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stayin’ Alive (Serban mix)",
+      "artist": "Bee Gees",
+      "has_synced": true,
+      "path": "select/04_Stayin’_Alive_(Serban_mix)_Bee_Gees.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stayin' Alive",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/05_Stayin'_Alive_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stayin' Alive",
+      "artist": "Magnum",
+      "has_synced": false,
+      "path": "select/06_Stayin'_Alive_Magnum.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stayin' Alive",
+      "artist": "Bee Gees",
+      "has_synced": false,
+      "path": "select/07_Stayin'_Alive_Bee_Gees.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stayin' Alive",
+      "artist": "Bee Gees",
+      "has_synced": true,
+      "path": "select/08_Stayin'_Alive_Bee_Gees.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stayin Alive",
+      "artist": "Bee Gees",
+      "has_synced": true,
+      "path": "select/09_Stayin_Alive_Bee_Gees.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stayin' Alive VS 50 C Tik Tok - Remix",
+      "artist": "ROSE BEAT",
+      "has_synced": true,
+      "path": "select/10_Stayin'_Alive_VS_50_C_Tik_Tok_-_Remix_ROSE_BEAT.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stayin' Alive VS 50 C Tik Tok",
+      "artist": "ROSE BEAT",
+      "has_synced": true,
+      "path": "select/11_Stayin'_Alive_VS_50_C_Tik_Tok_ROSE_BEAT.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stayin' Alive (From \"Saturday Night Fever\" Soundtrack)",
+      "artist": "Bee Gees",
+      "has_synced": true,
+      "path": "select/12_Stayin'_Alive_(From__Saturday_Night_Fever__Soundtrack)_Bee_Gees.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "0465 - The Bee Gees - Stayin' Alive",
+      "artist": "Bee Gees",
+      "has_synced": true,
+      "path": "select/13_0465_-_The_Bee_Gees_-_Stayin'_Alive_Bee_Gees.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stayin' Alive",
+      "artist": "The Bee Gees",
+      "has_synced": true,
+      "path": "select/14_Stayin'_Alive_The_Bee_Gees.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stayin' Alive (Teddybears Remix)",
+      "artist": "Bee Gees",
+      "has_synced": false,
+      "path": "select/15_Stayin'_Alive_(Teddybears_Remix)_Bee_Gees.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Stayin' Alive",
+      "artist": "The Bee Gees",
+      "has_synced": true,
+      "path": "select/16_Stayin'_Alive_The_Bee_Gees.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Stayin' Alive",
+      "artist": "Bee Gees",
+      "has_synced": true,
+      "path": "select/17_Stayin'_Alive_Bee_Gees.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "He's Stayin",
+      "artist": "Letters to Cleo",
+      "has_synced": false,
+      "path": "select/18_He's_Stayin_Letters_to_Cleo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stayin Alive",
+      "artist": "Bee Gees",
+      "has_synced": false,
+      "path": "select/pl_01_Stayin_Alive_Bee_Gees.txt"
+    }
+  ]
+}
